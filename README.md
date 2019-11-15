@@ -8,5 +8,5 @@
 
 * Склонировать репозиторий `https://github.com/Murrk/Docker2.git`
 * Перейти в директорию с проектом
-* Открыть консоль или терминал, собрать образ 'docker image build -t db-api:1.0 .' и запустить командой 'docker-compose up'
+* Открыть консоль или терминал, собрать образ `docker image build -t db-api:1.0 .` и запустить командой `docker-compose up`
 * Для теста сделать GET http://localhost:9999/api/cards
